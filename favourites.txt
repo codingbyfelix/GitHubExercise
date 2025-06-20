@@ -2,3 +2,7 @@ Favourite Foods:
 - Burger
 - Chili
 - Pizza
+Favourite Movies:
+- Titanic
+- Wolf of Wall Street
+- Forest Gump
